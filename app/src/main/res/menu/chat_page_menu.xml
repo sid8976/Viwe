@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/refresh"
+        android:enabled="true"
+        android:icon="@drawable/ic_refresh_black_48dp"
+        android:title="@string/refresh"
+        android:visible="true"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/chat_page_new_contact"
+        android:title="@string/all_users" />
+    <item
+        android:id="@+id/chat_page_acc_settings"
+        android:title="@string/accsetting" />
+    <item
+        android:id="@+id/chat_page_menu_logout"
+        android:title="@string/logout" />
+</menu>

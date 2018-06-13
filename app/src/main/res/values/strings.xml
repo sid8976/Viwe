@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Viwe</string>
+    <string name="welcome_to_viwe_app">Welcome to Viwe App.</string>
+    <string name="logintext">Login to Viwe Account.</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="logon">Login</string>
+    <string name="logout">Logout</string>
+    <string name="contact">All Contact</string>
+    <string name="accsetting">Account Setting</string>
+    <string name="already_a_user_text">ALREADY A USER | LOGIN HERE</string>
+    <string name="no_acc_text">NEED A NEW ACCOUNT | REGISTER HERE</string>
+    <string name="foget_password">FORGOT PASSWORD</string>
+    <string name="createtext">Create Viwe Account</string>
+    <string name="displayname">Display Name</string>
+    <string name="createacc">Create Account</string>
+    <string name="default_status">Hello I am a Viwe\'er</string>
+    <string name="change_img">CHANGE PROFILE DP</string>
+    <string name="change_status">CHANGE YOUR STATUS</string>
+    <string name="delete_acc">DELETE ACCOUNT</string>
+    <string name="delete_notice">We\'re sorry to hear you\'d like to delete your account. If you change your mind don\'t hesitate to join again</string>
+    <string name="new_status">Type in your new status</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="make_new_contact">Make a new Contact</string>
+    <string name="default_disp">Display Name</string>
+    <string name="update_status">UPDATE STATUS</string>
+    <string name="find_user">"SEARCH"</string>
+    <string name="refresh">Refresh</string>
+    <string name="enter_you_email_and_password_for_deleting_your_accout">Enter you Email and Password for deleting your accout</string>
+    <string name="decline_request">DECLINE REQUEST</string>
+    <string name="all_users">All Users</string>
+    <string name="cancel_contact_req">CANCEL CONTACT REQUEST</string>
+    <string name="accept_contact_req">ACCEPT CONTACT REQUEST</string>
+    <string name="unfriend">UnFriend</string>
+    <string name="send_message">SEND MESSAGE</string>
+    <string name="view_profile">VIEW PROFILE</string>
+    <string name="enter_message">Enter Message...</string>
+    <string name="todo">TODO</string>
+    <string name="sample_message">Sample Message</string>
+    <string name="last_message">Last Message</string>
+    <string name="change_name">CHANGE NAME</string>
+    <string name="type_out_your_new_name">Type out your new name</string>
+    <string name="update_name">UPDATE NAME</string>
+</resources>

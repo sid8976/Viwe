@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "885951840790",
+    "firebase_url": "https://viwe-a75bf.firebaseio.com",
+    "project_id": "viwe-a75bf",
+    "storage_bucket": "viwe-a75bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885951840790:android:d8a94c9b5308c6fb",
+        "android_client_info": {
+          "package_name": "com.sid.viwe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885951840790-nqe30jrn2oa22kvjh0dpu6b9i4cf99bo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sid.viwe",
+            "certificate_hash": "c70b9bfbf6b71b6d9124331fa8b1dd9539858950"
+          }
+        },
+        {
+          "client_id": "885951840790-6la609s319gda8uic827eqih49ag7k5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa7iYcctsHgPzykGMcGxs5cv9w8PcVNwY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885951840790-6la609s319gda8uic827eqih49ag7k5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.sid.viwe.changeNameActivity">
+
+    <include
+        layout="@layout/custom_toolbar"
+        android:id="@+id/changeNameToolbar"/>
+
+    <EditText
+        android:id="@+id/changenameText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/changeNameToolbar"
+        android:layout_marginStart="9dp"
+        android:layout_marginTop="12dp"
+        android:hint="@string/type_out_your_new_name" />
+
+    <Button
+        android:id="@+id/updt_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="5dp"
+        android:layout_alignEnd="@+id/changenameText"
+        android:layout_below="@+id/changenameText"
+        android:background="@color/colorPrimaryDark"
+        android:paddingLeft="10sp"
+        android:paddingRight="10sp"
+        android:text="@string/update_name"
+        android:textColor="#ffffff" />
+
+
+</RelativeLayout>
